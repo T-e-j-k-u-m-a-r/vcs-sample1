@@ -1,0 +1,1 @@
+console.log('Removed the alert prompting onload for the body tag...');
